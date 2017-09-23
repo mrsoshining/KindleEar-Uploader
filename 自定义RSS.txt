@@ -1,0 +1,18 @@
+板块聚焦-东方财富  全文RSS 删除
+http://rssft.com/emoney/bkjj.xml
+财经导读-东方财富  全文RSS 删除
+http://rssft.com/emoney/cjdd.xml
+期市要闻 -东方财富  全文RSS 删除
+http://rssft.com/emoney/qsyw.xml
+商业资讯-东方财富  全文RSS 删除
+http://rssft.com/emoney/syzx.xml
+上市公司-东方财富  全文RSS 删除
+http://rssft.com/emoney/ssgs.xml
+纵深调查-东方财富  全文RSS 删除
+http://rssft.com/emoney/zsdc.xml
+国内新闻-人民网  全文RSS 删除
+http://www.people.com.cn/rss/politics.xml
+国际新闻-人民网  全文RSS 删除
+http://www.people.com.cn/rss/world.xml
+经济新闻-人民网  全文RSS 删除
+http://www.people.com.cn/rss/finance.xml
